@@ -54,7 +54,7 @@
 
 - Envie o arquivo HTML com a resposta pelo Classroom da turma, no post feito para esta atividade; ou
 
-- Caso prefira, pode utilizar a ferramenta online CodePen, onde o código base desta atividade encontra-se neste [link](https://codepen.io/lucasifce/pen/jOJKwBY);
+- Caso prefira, pode utilizar a ferramenta online CodePen, onde o código base desta atividade encontra-se neste [link](https://codepen.io/prof_lucasmendes/pen/NPWbJqJ);
 
     > Ao acessar o link da atividade no CodPen, siga as seguintes etapas:
     >> - Faça login, caso ainda não tenha feito;
