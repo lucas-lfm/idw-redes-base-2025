@@ -5,7 +5,7 @@
 [Acesse aqui](https://codepen.io/collection/ZQQjbg) a coleção da disciplina no CodePen.
 [Acese aqui](../../../materiais/slides/) o material da disciplina.
 
-> Materiais que abordam conteúdos diretamente utilizados nessa prática:
+> Materiais que abordam conteúdos diretamente utilizados nesta prática:
 > - CSS básico e Tipografia CSS: [slide 03](./../../../materiais/slides/IDW-03_CSS-INTRO.pdf)
 > - HTML semântico: [slide 04](./../../../materiais/slides/IDW-04_HTML-P2.pdf)
 > - Box Model (espaçamentos e bordas): [slide 05](./../../../materiais/slides/IDW-05-css_box-model_posicionamento.pdf)
@@ -39,4 +39,4 @@
     - Os links também foram definidos com uma cor diferente da cor padrão;
     - Sintam-se livres para utilizar outras cores, porém tentem manter um bom contraste visual. Utilizem o site [Adobe Color](https://color.adobe.com/pt/create/color-contrast-analyzer) para fazer a verificação de contraste;
     - ***Você DEVE utilizar CSS externo***;
-    - Compacte a pasta contendo os arquivos do projeto para o formato zip e anexem à entrega desta atividade no Classroom.
+    - Compacte a pasta contendo os arquivos do projeto para o formato zip e anexe à entrega desta atividade no Classroom.
