@@ -128,6 +128,11 @@
     }
     ```
 
+1. **Explicação do Código**
+
+- Selecionamos o elemento com a classe `container`, que envolverá todo o conteúdo da página, e definimos uma largura máxima (`max-width`) e centralizamos o container com `margin: 0 auto`.
+- Pequenas estilizações textuais no título `h1` e nos parágrafos `p` (cor e margem inferior).
+
 ---
 
 ### **Passo 3: Adicionar Imagem de Perfil**  
@@ -136,6 +141,7 @@
     ```html
     <img src="./img/perfil.jpg" alt="Foto de Perfil" class="foto-perfil">
     ```
+- Observação: baixe uma imagem para utilizar como imagem de perfil e coloque-a dentro da pasta `img` do projeto.
 
 1. No CSS:  
     ```css
@@ -148,6 +154,16 @@
         margin: 20px 0;
     }
     ```
+
+1. **Explicação do Código**
+
+- Adicionamos a classe `foto-perfil` na imagem para estilizá-la no CSS.
+- No CSS, definimos:
+    - altura e largura da imagem (`height` e `width`)
+    - ajuste da imagem para não distorcê-la (`object-fit: cover`)
+    - arredondamento das boras em `50%`, com `border-radius` (isso faz com que o elemento tenha um formato circular)
+    - borda branca ao redor da foto de perfil
+    - margem superior e inferior de 20px (`margin: 20px 0` - o 20px é aplicado nas bordas inferior e superior, enquanto o 0 é aplicado nas bordas laterais)
 
 ---
 
@@ -189,6 +205,13 @@
         display: block;
     }
     ```
+
+1. **Explicação do Código**
+
+- Adicionamos a classe `links` na lista de links, a classe `link-item` em cada item específico da lista e a classe `btn` nos links (`<a>`) dentro do item da lista.
+- Retiramos os marcadores da lista (`list-style: none`).
+- Definimos estilos padrões para os itens da lista (margem, cor de plano de fundo, padding e leve arredondamento das bordas).
+- Definimos estilos padrões para os links (retiramos o sublinado do link, com `text-decoration: none`, cor do texto, negrito e apresentação em bloco, que ocupa toda a largura disponínel).
 
 ---
 
